@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Admin Center">be819af35b11011011ca51d11581c7c0</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Monkeys</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_42999_cdp_monkey</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_42999_cdp.monkey_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-01 16:09:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e2773ef4873021108a62fd57dabb35a0</sys_id>
+        <sys_name>Monkeys</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope>
+        <sys_update_name>sys_app_module_e2773ef4873021108a62fd57dabb35a0</sys_update_name>
+        <timeline_page/>
+        <title>Monkeys</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

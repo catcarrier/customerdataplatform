@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Service Support Request">4a4b5342879c61508a62fd57dabb35b9</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-11 19:27:19</sys_created_on>
+        <sys_id>1b5bd342879c61508a62fd57dabb3563</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Service Support Request</sys_name>
+        <sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1b5bd342879c61508a62fd57dabb3563</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-11 19:27:19</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</application>
+        <file_path/>
+        <instance_id>83fa3bac1b3d01107d9d2f8dee4bcbcb</instance_id>
+        <instance_name>dev125224</instance_name>
+        <name>sc_cat_item_catalog_1b5bd342879c61508a62fd57dabb3563</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Service Support Request">4a4b5342879c61508a62fd57dabb35b9</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-11 19:27:19</sys_created_on><sys_id>1b5bd342879c61508a62fd57dabb3563</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Service Support Request</sys_name><sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package><sys_policy/><sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope><sys_update_name>sc_cat_item_catalog_1b5bd342879c61508a62fd57dabb3563</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-11 19:27:19</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>988070885</payload_hash>
+        <record_name>Service Catalog.Service Support Request</record_name>
+        <reverted_from/>
+        <source>dc40a30a879c61508a62fd57dabb35c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-11 19:48:43</sys_created_on>
+        <sys_id>e840e30a879c61508a62fd57dabb353c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185a260aefd0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-11 19:48:43</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>2040e30a219c6150c99bc4270031683c</update_guid>
+        <update_guid_history>2040e30a219c6150c99bc4270031683c:988070885,135bd342619c615004300d70abc96c66:-1790476815</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Service Support Request">6840e30a879c61508a62fd57dabb3544</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-11 19:48:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>29f35b2b4e9f45e091b33e0e355af900</sys_id>
+        <sys_metadata>1b5bd342879c61508a62fd57dabb3563</sys_metadata>
+        <sys_name>Service Catalog.Service Support Request</sys_name>
+        <sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package>
+        <sys_parent display_value="Service Support Request">4a4b5342879c61508a62fd57dabb35b9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope>
+        <sys_scope_delete display_value="">32199c9066bc4dee98c50343eb6548d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_1b5bd342879c61508a62fd57dabb3563</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_1b5bd342879c61508a62fd57dabb3563">e840e30a879c61508a62fd57dabb353c</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

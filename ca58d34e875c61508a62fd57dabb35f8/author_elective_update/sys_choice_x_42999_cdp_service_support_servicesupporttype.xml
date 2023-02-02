@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="servicesupporttype" table="x_42999_cdp_service_support" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>servicesupporttype</element>
+            <name>x_42999_cdp_service_support</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-11 19:19:03</sys_created_on>
+            <sys_name>servicesupporttype</sys_name>
+            <sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope>
+            <sys_update_name>sys_choice_x_42999_cdp_service_support_servicesupporttype</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicesupporttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data and System Integration</label>
+            <language>en</language>
+            <name>x_42999_cdp_service_support</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-11 19:19:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>data_and_system_integration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicesupporttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Architecture Consult</label>
+            <language>en</language>
+            <name>x_42999_cdp_service_support</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-11 19:19:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>data_architecture_consult</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicesupporttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Form and Logic Development</label>
+            <language>en</language>
+            <name>x_42999_cdp_service_support</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-11 19:19:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>form_and_logic_development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicesupporttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>One-Time Data Load</label>
+            <language>en</language>
+            <name>x_42999_cdp_service_support</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-11 19:19:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>one_time_data_load</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

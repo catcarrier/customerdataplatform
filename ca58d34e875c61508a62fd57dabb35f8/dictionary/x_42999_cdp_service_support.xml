@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9179df8e875c61508a62fd57dabb3506" label="Service Support" max_length="40" name="x_42999_cdp_service_support" type="collection">
+        <element label="Foo" max_length="50" name="foo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Long Description" max_length="4000" name="long_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="One-Time Data Load Additional Information" max_length="4000" name="one_time_data_load_additional_information" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Priority" mandatory="true" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" value="1"/>
+                <element inactive_on_update="false" label="Low" value="3"/>
+                <element inactive_on_update="false" label="Medium" value="2"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="RequestOnBehalf" max_length="32" name="requestonbehalf" reference="sys_user" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="ServiceSupportType" mandatory="true" max_length="40" name="servicesupporttype" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data and System Integration" value="data_and_system_integration"/>
+                <element inactive_on_update="false" label="Data Architecture Consult" value="data_architecture_consult"/>
+                <element inactive_on_update="false" label="Form and Logic Development" value="form_and_logic_development"/>
+                <element inactive_on_update="false" label="One-Time Data Load" value="one_time_data_load"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="180" name="short_description" type="string"/>
+        <index name="index">
+            <element name="requestonbehalf"/>
+        </index>
+    </element>
+</database>

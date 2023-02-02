@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Service Support Request">4a4b5342879c61508a62fd57dabb35b9</catalog_item>
+        <catalog_variable>IO:050edb06879c61508a62fd57dabb35a9</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-11 19:41:45</sys_created_on>
+        <sys_id>4f9e1f46879c61508a62fd57dabb352d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>one_time_data_load_extra_information</sys_name>
+        <sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_4f9e1f46879c61508a62fd57dabb352d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-11 19:41:45</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make Additional Data Load Info Mandatory">647e9746879c61508a62fd57dabb35b8</ui_policy>
+        <variable>one_time_data_load_extra_information</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</application>
+        <file_path/>
+        <instance_id>83fa3bac1b3d01107d9d2f8dee4bcbcb</instance_id>
+        <instance_name>dev125224</instance_name>
+        <name>catalog_ui_policy_action_4f9e1f46879c61508a62fd57dabb352d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Service Support Request">4a4b5342879c61508a62fd57dabb35b9</catalog_item><catalog_variable>IO:050edb06879c61508a62fd57dabb35a9</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-11 19:41:45</sys_created_on><sys_id>4f9e1f46879c61508a62fd57dabb352d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>one_time_data_load_extra_information</sys_name><sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package><sys_policy/><sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope><sys_update_name>catalog_ui_policy_action_4f9e1f46879c61508a62fd57dabb352d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-11 19:41:45</sys_updated_on><table/><ui_policy display_value="Make Additional Data Load Info Mandatory">647e9746879c61508a62fd57dabb35b8</ui_policy><variable>one_time_data_load_extra_information</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-112535013</payload_hash>
+        <record_name>one_time_data_load_extra_information</record_name>
+        <reverted_from/>
+        <source>4658d34e875c61508a62fd57dabb35fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-11 19:41:45</sys_created_on>
+        <sys_id>aeae5f46879c61508a62fd57dabb3566</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185a25a4dbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-11 19:41:45</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>e6ae5f46789c6150871bba197d9ef366</update_guid>
+        <update_guid_history>e6ae5f46789c6150871bba197d9ef366:-112535013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="one_time_data_load_extra_information">e440e30a879c61508a62fd57dabb3528</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-11 19:48:42</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>4d469599e5e0424b98fe495c244f0841</sys_id>
+        <sys_metadata>4f9e1f46879c61508a62fd57dabb352d</sys_metadata>
+        <sys_name>one_time_data_load_extra_information</sys_name>
+        <sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope>
+        <sys_scope_delete display_value="">32199c9066bc4dee98c50343eb6548d9</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_4f9e1f46879c61508a62fd57dabb352d</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_4f9e1f46879c61508a62fd57dabb352d">aeae5f46879c61508a62fd57dabb3566</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

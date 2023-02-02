@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="245eb13287d825508a62fd57dabb351b" extends="x_42999_cdp_foo" label="FooChild" max_length="40" name="x_42999_cdp_foochild" type="collection"/>
+</database>

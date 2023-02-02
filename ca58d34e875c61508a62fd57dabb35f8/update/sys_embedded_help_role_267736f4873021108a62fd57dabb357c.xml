@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_42999_cdp.monkey_user" name="x_42999_cdp.monkey_user">d27736f4873021108a62fd57dabb357a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-01 16:09:32</sys_created_on>
+        <sys_id>267736f4873021108a62fd57dabb357c</sys_id>
+        <sys_name>d27736f4873021108a62fd57dabb357a</sys_name>
+        <sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_267736f4873021108a62fd57dabb357c</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

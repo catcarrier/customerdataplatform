@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_42999_cdp_service_support">x_42999_cdp_service_support</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SER</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-11 19:19:01</sys_created_on>
+        <sys_id>ad79df8e875c61508a62fd57dabb354d</sys_id>
+        <sys_name>SER</sys_name>
+        <sys_package display_value="Customer Data Platform" source="x_42999_cdp">ca58d34e875c61508a62fd57dabb35f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Data Platform">ca58d34e875c61508a62fd57dabb35f8</sys_scope>
+        <sys_update_name>sys_number_ad79df8e875c61508a62fd57dabb354d</sys_update_name>
+    </sys_number>
+</record_update>
